@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DavisOwen
-- 👀 I’m a SWE at Dropbox, interested in web development, algorithmic stock trading, distributed systems, and Obsidian.md
+- 👀 I’m a SWE at Microsoft (Ex-Dropbox), interested in web development, algorithmic stock trading, distributed systems, and Obsidian.md
 - 💞️ I’m looking to work on distributed system problems
 - 📫 How to reach me sdowen12@gmail.com
 
